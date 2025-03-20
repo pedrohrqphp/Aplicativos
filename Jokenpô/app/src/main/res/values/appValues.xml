@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Strings do projeto-->
+    <string name="appTitulo">JOKENPÔ PLAY</string>
+    <string name="appResultado">Selecione sua jogada.</string>
+    <string name="appTextBtnPlay">Jogar</string>
+
+    <!--Cores do Projeto-->
+    <color name="appColor1">#950000</color>
+    <color name="appColor2">@color/black</color>
+    <color name="appColor3">#D7D7D7</color>
+    <color name="appColor4">#0087B3</color>
+    <color name="appColor5">#6D6D6D</color>
+</resources>
